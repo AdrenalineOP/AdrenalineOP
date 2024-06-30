@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on ML & AI projects
-- 📫 How to reach me Telegram: @DragonwarriorV
+- 📫 How to reach me Telegram: @explosiveion
 - 💻 LinkedIn: https://www.linkedin.com/in/vignesh-g-911465251/
 - 📝 Gmail: vigneshigprakash@gmail.com
 <!---
